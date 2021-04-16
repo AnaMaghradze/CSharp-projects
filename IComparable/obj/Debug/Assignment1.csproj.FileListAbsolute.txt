@@ -1,0 +1,14 @@
+C:\Users\annma\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\annma\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\annma\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\annma\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\annma\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\annma\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\annma\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\annma\Desktop\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\annma\Desktop\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\annma\Desktop\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\annma\Desktop\Assignment1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\annma\Desktop\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\annma\Desktop\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\annma\Desktop\Assignment1\Assignment1\obj\Debug\Assignment1.pdb

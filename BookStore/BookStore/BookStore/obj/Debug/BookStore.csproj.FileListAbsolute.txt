@@ -1,0 +1,12 @@
+C:\Users\annma\Desktop\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\annma\Desktop\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\annma\Desktop\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\annma\Desktop\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\annma\Desktop\BookStore\BookStore\obj\Debug\BookStore.CustomerForm.resources
+C:\Users\annma\Desktop\BookStore\BookStore\obj\Debug\BookStore.BookStoreForm.resources
+C:\Users\annma\Desktop\BookStore\BookStore\obj\Debug\BookStore.MainForm.resources
+C:\Users\annma\Desktop\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\annma\Desktop\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+C:\Users\annma\Desktop\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\annma\Desktop\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\annma\Desktop\BookStore\BookStore\obj\Debug\BookStore.pdb

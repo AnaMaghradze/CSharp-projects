@@ -1,0 +1,7 @@
+C:\Users\annma\Desktop\InfInt\InfInt\bin\Debug\InfInt.exe.config
+C:\Users\annma\Desktop\InfInt\InfInt\bin\Debug\InfInt.exe
+C:\Users\annma\Desktop\InfInt\InfInt\bin\Debug\InfInt.pdb
+C:\Users\annma\Desktop\InfInt\InfInt\obj\Debug\InfInt.csprojAssemblyReference.cache
+C:\Users\annma\Desktop\InfInt\InfInt\obj\Debug\InfInt.csproj.CoreCompileInputs.cache
+C:\Users\annma\Desktop\InfInt\InfInt\obj\Debug\InfInt.exe
+C:\Users\annma\Desktop\InfInt\InfInt\obj\Debug\InfInt.pdb
